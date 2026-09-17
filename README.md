@@ -1,4 +1,4 @@
-# OURS: Privacy-Preserving Federated Visual Defect Detection
+# Privacy-Preserving Federated Visual Defect Detection
 
 OURS is a federated defect detection framework for distributed manufacturing under strict privacy constraints. It addresses limited defect samples and heterogeneous client data without centralized training.
 
